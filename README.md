@@ -2,6 +2,12 @@
 
 A UI test automation framework (Serenity BDD + Selenium + Java + POM) using **Java 20** and **Gradle 8.10 (via wrapper)**.
 
+## 🚀 Video Results
+
+1. Link to video with results IU Testing:
+   ```bash
+   https://jam.dev/c/95e859f1-dddb-49ae-941a-5e49aafc89c5
+
 ## ✅ Requirements
 
 - Java 20 installed (`java -version`)
